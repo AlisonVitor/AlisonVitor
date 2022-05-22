@@ -1,5 +1,5 @@
 <h1 align="center">oi 👋, eu sou Alison Vitor</h1>
-<h3 align="center">Cursando Analise e Desenvolvimento de sistema, adoro progamador e desenvolver, gosto de aprender, o conhecimento e algo que nunca sera tirado.
+<h3 align="center">Cursando Analise e Desenvolvimento de sistema, adoro progamar e desenvolver, gosto de aprender, o conhecimento e algo que nunca sera tirado.
 </h3>
 
 - 🌱 atualmente estou aprendendo **React, JAVA**
