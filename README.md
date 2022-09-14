@@ -1,9 +1,13 @@
 <h1 align="center">oi 👋, eu sou Alison Vitor</h1>
-<h3 align="center">Desenvolvedor Full-Stack com conhecimento em <font color = red>Phyton, Java, javascript </font>
+<h3 align="center">Desenvolvedor Full-Stack com conhecimento em <font color = red>Phyton, Java, javascript e phyton</font>
+  Desenvolvedor Frelaa.
+  
+  Com conhecimento em FrameWork: ReactNative, Node.Js
+  
 </h3>
 
-- 🌱 atualmente estou aprendendo **React, JAVA**
-- 🔭 atualmente estou desenvolvendo um site, para curso de progamação e especialização
+- 🌱 Ensino os primeiros passos para se tornar um desenvolvedor no meu instagram
+- 🔭 Atualmente estou trabalhando em um projeto de ensino de programação e trafego pago.
 
 - 📫 Você me acha em **alisonvitor135@gmail.com**
 
