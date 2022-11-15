@@ -15,10 +15,9 @@
   Tenho habilidades em:
   <ul>
  <li> - JAVA  
-  <li> - HTML, CSS E JAVASCRIPT. 
-  <li> - PHYTON 
-  <li> - C# 
-  <li> - REACTJS 
+  <li> - HTML 
+    <li>CSS 
+   <li>JAVASCRIPT. 
   <li> - SCRUM 
   
   </ul>
