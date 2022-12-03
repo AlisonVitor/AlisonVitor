@@ -12,7 +12,7 @@
 
 <p>Tecnologias que uso no meu dia-dia</p>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-<img src="[https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)">
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)">
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 
 <h3 align="left">Conecte-se comigo:</h3>
