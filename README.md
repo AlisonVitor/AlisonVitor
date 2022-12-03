@@ -1,23 +1,21 @@
-<h1 align="center">oi 👋, eu sou Alison </h1>
-<h3 align="center">Desenvolvedor Full-Stack | Desenvolvedor de jogos <font color = red></font>
-</h3>
+## Olá! Eu sou o Alison 🖐️
 
-<ul>
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@gd-geracaodigital5250)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alisonmaciel.dev/)
 
-  Desenvolvedor Full-Stack, conhecimento em Front-End e Back End.
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
+
+## Tecnologias que eu uso no meu dia
+
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   
-  
-  
-</ul>
+</div><br/>
 
-<p>Tecnologias que uso no meu dia-dia</p>
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com /in/alisonnvitor" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="alisonnvitor" height="30" width="40" /></a>
-<a href="https://instagram.com/alisonmaciel.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="alisonnvitor" height="30" width="40" /></a>
-</p>
 
