@@ -4,24 +4,14 @@
 
 <ul>
 
-- 🌱 Ensino os primeiros passos para se tornar um desenvolvedor no meu instagram
-- 🔭 Trabalho com desenvolvimento FREE-LANCER.
-- 👻 Sou desenvolvedor de sites e jogos.
-- 📫 Você me acha em **alisonvitor135@gmail.com**
-- 🧠 Meu ultimo projeto, foi um jogo PINBALL, para um evento da GOOGLE.
+  Desenvolvedor Full-Stack, conhecimento em Front-End e Back End.
+  
+  
+  
 </ul>
 
-<p>Sou desenvolvedor full-stack, com conhecimento em diversas tecnologias. Com 5 anos no mercado de Desenvolvimento/Programação.
-  Tenho habilidades em:
-  <ul>
- <li> - JAVA  
-  <li> - HTML 
-    <li>CSS 
-   <li>JAVASCRIPT. 
-  <li> - SCRUM 
-  
-  </ul>
-</p>
+<p>Tecnologias que uso no meu dia-dia</p>
+https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
